@@ -31,7 +31,7 @@ my-canopy-l1-chain/
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-canopy-l1-chain
+git clone https://github.com/lordslavik/my-canopy-l1-chain
 cd my-canopy-l1-chain
 
 # Run the full demo (chain + contracts)
